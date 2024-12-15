@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivvyas2&label=Profile%20views&color=0e75b6&style=flat" alt="shivvyas2" /> </p>
 
-- 🔭 I’m currently working on [ALSM](https://github.com/shivvyas2/ASH-React-Native-)
+I'm a full-stack software developer specializing in mobile and web technologies. Currently working at a fintech company, I develop cross-platform applications using React Native, React, Android, and iOS technologies (Swift).
+My recent projects include:
 
-- 🌱 I’m currently learning **React, MongoDB, Node**
+Ghor Kalyug: A full-stack quiz platform that empowers students to create and take custom quizzes
+Calm Pulse: An Android app inspired by Endel, designed to help manage anxiety through personalized experiences
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivvyas2](https://github.com/shivvyas2)
-
-- 💬 Ask me about **React-Native, Flutter**
+Passionate about creating intuitive, user-centric solutions that solve real-world problems. Always learning and expanding my technical toolkit, with a growing interest in backend development.
 
 - 📫 How to reach me **shivvyas0209@gmail.com**
 
