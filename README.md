@@ -7,7 +7,8 @@ I'm a full-stack software developer specializing in mobile and web technologies.
 My recent projects include:
 
 Ghor Kalyug: A full-stack quiz platform that empowers students to create and take custom quizzes
-Calm Pulse: An Android app inspired by Endel, designed to help manage anxiety through personalized experiences
+<p>
+Calm Pulse: An Android app inspired by Endel, designed to help manage anxiety through personalized experiences</p>
 
 Passionate about creating intuitive, user-centric solutions that solve real-world problems. Always learning and expanding my technical toolkit, with a growing interest in backend development.
 
