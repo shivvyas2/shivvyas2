@@ -12,9 +12,9 @@ Calm Pulse: An Android app inspired by Endel, designed to help manage anxiety th
 
 Passionate about creating intuitive, user-centric solutions that solve real-world problems. Always learning and expanding my technical toolkit, with a growing interest in backend development.
 
-- 📫 How to reach me **shivvyas0209@gmail.com**
+ 📫 How to reach me **shivvyas0209@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shivvyas/](https://www.linkedin.com/in/shivvyas/)
+ 📄 Know about my experiences [https://www.linkedin.com/in/shivvyas/](https://www.linkedin.com/in/shivvyas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
