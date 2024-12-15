@@ -31,5 +31,5 @@ Passionate about creating intuitive, user-centric solutions that solve real-worl
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivvyas2&show_icons=true&locale=en&layout=compact" alt="shivvyas2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivvyas2&show_icons=true&locale=en" alt="shivvyas2" /></p>
+
 
