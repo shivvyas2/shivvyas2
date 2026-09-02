@@ -21,10 +21,10 @@
 
 I build mobile products end to end: native iOS in Swift and SwiftUI, cross-platform apps in React Native, web in Next.js, and the AI backends behind them. Lately most of my work runs a language model somewhere in the loop, on the device where it can and in the cloud where it must.
 
-- Leading native iOS at **Contextual Intelligence** (formerly Luna Social), a social app with an iMessage agent behind it
+- Founding Engineer at **Contextual Intelligence** (formerly Luna Social), a social app with an iMessage agent behind it
 - M.S. Computer Science, **Pace University**, with a focus on HCI and mobile development
 - Building **Life OS**, a personal health app that reasons over Apple Watch, Whoop and Renpho data on device
-- Off the clock: guitar, film photography, long-form writing
+- Off the clock: guitar, film photography
 
 ---
 
