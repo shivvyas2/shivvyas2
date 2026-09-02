@@ -177,8 +177,8 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivvyas2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=FFFFFF" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivvyas2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=FFFFFF&langs_count=6" height="165" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=shivvyas2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=FFFFFF" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivvyas2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=FFFFFF&langs_count=6" height="165" alt="Top languages" />
 
 </div>
 
